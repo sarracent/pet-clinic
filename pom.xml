@@ -43,6 +43,6 @@
 
     <scm>
         <developerConnection>scn:git:https://github.com/sarracent/pet-clinic.git</developerConnection>
-  </scm>
+    </scm>
 
 </project>
