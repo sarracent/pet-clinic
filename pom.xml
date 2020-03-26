@@ -17,7 +17,7 @@
 
     <groupId>com.sarracent</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project</description>
 
@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scn:git:https://github.com/sarracent/pet-clinic.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>pet-clinic-0.0.4</tag>
   </scm>
 
 </project>
