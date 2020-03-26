@@ -17,12 +17,12 @@
 
     <groupId>com.sarracent</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
 
     <build>
@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scn:git:https://github.com/sarracent/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+      <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
