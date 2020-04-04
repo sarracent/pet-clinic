@@ -1,0 +1,5 @@
+com/sarracent/petclinic/model/Pet.class
+com/sarracent/petclinic/model/Person.class
+com/sarracent/petclinic/model/Vet.class
+com/sarracent/petclinic/model/PetType.class
+com/sarracent/petclinic/model/Owner.class
