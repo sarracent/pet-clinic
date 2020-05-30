@@ -1,5 +1,14 @@
-com/sarracent/petclinic/model/Pet.class
 com/sarracent/petclinic/model/Person.class
-com/sarracent/petclinic/model/Vet.class
+com/sarracent/petclinic/services/OwnerService.class
+com/sarracent/petclinic/services/PetService.class
+com/sarracent/petclinic/model/Pet.class
+com/sarracent/petclinic/services/map/PetServiceMap.class
+com/sarracent/petclinic/services/map/OwnerServiceMap.class
+com/sarracent/petclinic/services/VetService.class
+com/sarracent/petclinic/model/BaseEntity.class
 com/sarracent/petclinic/model/PetType.class
+com/sarracent/petclinic/services/map/VetServiceMap.class
+com/sarracent/petclinic/model/Vet.class
+com/sarracent/petclinic/services/map/AbstractMapService.class
+com/sarracent/petclinic/services/CrudService.class
 com/sarracent/petclinic/model/Owner.class

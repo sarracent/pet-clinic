@@ -1,1 +1,5 @@
+com/sarracent/petclinic/controllers/OwnerController.class
+com/sarracent/petclinic/bootstrap/DataLoader.class
+com/sarracent/petclinic/controllers/VetController.class
+com/sarracent/petclinic/controllers/IndexController.class
 com/sarracent/petclinic/PetClinicApplication.class
